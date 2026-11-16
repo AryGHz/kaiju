@@ -1,0 +1,11 @@
+wp-config.php
+.htaccess
+*.sql
+*.sql.gz
+*.zip
+*.wpress
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/updraft/
+*.log
